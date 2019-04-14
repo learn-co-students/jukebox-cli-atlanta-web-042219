@@ -1,5 +1,5 @@
 songs = {
-"Go Go GO" => '/Users/andrew/Development/labs/jukebox-cli-atlanta-web-042219/audio/Emerald-Park/01.mp3',
+"This file seems to be corrupted." => '/Users/andrew/Development/labs/jukebox-cli-atlanta-web-042219/audio/Emerald-Park/01.mp3',
 "LiberTeens" => '/Users/andrew/Development/labs/jukebox-cli-atlanta-web-042219/audio/Emerald-Park/02.mp3',
 "Hamburg" =>  '/Users/andrew/Development/labs/jukebox-cli-atlanta-web-042219/audio/Emerald-Park/03.mp3',
 "Guiding Light" => '/Users/andrew/Development/labs/jukebox-cli-atlanta-web-042219/audio/Emerald-Park/04.mp3',
